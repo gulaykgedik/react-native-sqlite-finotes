@@ -1,10 +1,8 @@
 # 📝 React Native Finotes
-------
 
 This project is a simple and modern **note-taking application** built with React Native. Users can create, update, and delete their notes. All data is stored locally using **SQLite**. The app uses **Formik & Yup** for form handling and validation, and **Redux Toolkit** for global state management. It offers a mobile-friendly and responsive design.
 
 ## 🚀 Features
--------
 
 - 📄 Add, edit, and delete notes
 - 💾 Offline data storage using SQLite
@@ -14,7 +12,6 @@ This project is a simple and modern **note-taking application** built with React
 - 🔙 Navigation between screens with React Navigation
 
 ## 🛠️ Technologies Used
--------
 
 | Technology | Description |
 |------------|-------------|
@@ -32,7 +29,7 @@ This project is a simple and modern **note-taking application** built with React
 | react-native-screens | Improved navigation performance |
 
 ## Screenshot
-------
+
 ![finotes](https://github.com/user-attachments/assets/a3cb416c-7506-4da8-9a1f-5606179a3a6c)
 
 
